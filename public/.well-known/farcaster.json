@@ -1,0 +1,18 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjUwMzg5MiwidHlwZSI6ImF1dGgiLCJrZXkiOiIweDcwQmFmZTI5RTVGNGU1NDc4YURDNDA4NDQ2MkNlZThBN0QzNjMyRmQifQ",
+    "payload": "eyJkb21haW4iOiJveHlnZW4tY29uc3RydWN0aW9uLTc5MS5hcHAub2hhcmEuYWkifQ",
+    "signature": "KJ40gWR5+GFiusAeYEKZZTywY251bJerW2XJ5efmWmsjxYDFflMEO3ZQOuRo4VjTuV7HfWgVHt2SpasCaRlvWRw="
+  },
+  "baseBuilder": {
+    "ownerAddress": "0x29536D0bc1004ab274c4F0F59734Ad74D4559b7B"
+  },
+  "miniapp": {
+    "version": "1",
+    "name": "Thread Master",
+    "iconUrl": "https://example.com/icon.png",
+    "splashImageUrl": "https://example.com/splash.png",
+    "splashBackgroundColor": "#7c3aed",
+    "homeUrl": "https://example.com"
+  }
+}
